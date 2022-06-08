@@ -1,0 +1,567 @@
+﻿Protein_code,Protein_name,Gene_code
+A1BG,Alpha-1B-glycoprotein,A1BG
+A1BGi,Isoform 2 of Alpha-1B-glycoprotein,A1BG
+A2MG,Alpha-2-macroglobulin,A2M
+MRP2,ATP-binding cassette sub-family C member 2,ABCC2
+MRP4,ATP-binding cassette sub-family C member 4,ABCC4
+TARSH,Target of Nesh-SH3,ABI3BP
+ACTB,"Actin, cytoplasmic 1",ACTB
+ACTBL,Beta-actin-like protein 2,ACTBL2
+ACTC,"Actin, alpha cardiac muscle 1",ACTC1
+ACTG,"Actin, cytoplasmic 2",ACTG1
+ACTN1,Alpha-actinin-1,ACTN1
+ACTN4,Alpha-actinin-4,ACTN4
+ATS13,A disintegrin and metalloproteinase with thrombospondin motifs 13,ADAMTS13
+RED1,Double-stranded RNA-specific editase 1,ADARB1
+AGRG6,Adhesion G-protein coupled receptor G6,ADGRG6
+ADIPO,Adiponectin,ADIPOQ
+AFAM,Afamin,AFM
+ANGT,Angiotensinogen,AGT
+FETUA,Alpha-2-HS-glycoprotein,AHSG
+KAD1,Adenylate kinase isoenzyme 1,AK1
+HEM2,Delta-aminolevulinic acid dehydratase,ALAD
+ALBU,Albumin,ALB
+ALDOA,Fructose-bisphosphate aldolase A,ALDOA
+ALDOB,Fructose-bisphosphate aldolase B,ALDOB
+AMBP,Protein AMBP,AMBP
+ANGI,Angiogenin,ANG
+AMPN,Aminopeptidase N,ANPEP
+ANXA1,Annexin A1,ANXA1
+ANXA2,Annexin A2,ANXA2
+AOC3,Membrane primary amine oxidase,AOC3
+SAMP,Serum amyloid P-component,APCS
+APMAP,Adipocyte plasma membrane-associated protein,APMAP
+APOA1,Apolipoprotein A-I,APOA1
+APOA2,Apolipoprotein A-II,APOA2
+APOA4,Apolipoprotein A-IV,APOA4
+APOA5,Apolipoprotein A-V,APOA5
+APOB,Apolipoprotein B-100,APOB
+APOC1,Apolipoprotein C-I,APOC1
+APOC2,Apolipoprotein C-II,APOC2
+APOC3,Apolipoprotein C-III,APOC3
+APOC4,Apolipoprotein C-IV,APOC4
+APOD,Apolipoprotein D,APOD
+APOE,Apolipoprotein E,APOE
+APOF,Apolipoprotein F,APOF
+APOH,Beta-2-glycoprotein 1,APOH
+APOL1,Apolipoprotein L1,APOL1
+APOM,Apolipoprotein M,APOM
+ATPB,"ATP synthase subunit beta, mitochondrial",ATP5B
+AT5F1,"ATP synthase F(0) complex subunit B1, mitochondrial",ATP5F1
+ATRNi,Isoform 2 of Attractin,ATRN
+ZA2G,Zinc-alpha-2-glycoprotein,AZGP1
+B2MG,Beta-2-microglobulin,B2M
+CHLE,Cholinesterase,BCHE
+BLVRB,Flavin reductase (NADPH),BLVRB
+PMGE,Bisphosphoglycerate mutase,BPGM
+BTDi,Isoform 4 of Biotinidase,BTD
+CR063,Uncharacterized protein C18orf63,C18orf63
+C1QA,Complement C1q subcomponent subunit A,C1QA
+C1QB,Complement C1q subcomponent subunit B,C1QB
+C1QC,Complement C1q subcomponent subunit C,C1QC
+C1QT3,Complement C1q tumor necrosis factor-related protein 3,C1QTNF3
+C1R,Complement C1r subcomponent,C1R
+C1RL,Complement C1r subcomponent-like protein,C1RL
+C1S,Complement C1s subcomponent,C1S
+CO2,Complement C2,C2
+CO3,Complement C3,C3
+CO4A,Complement C4-A,C4A
+CO4B,Complement C4-B,C4B
+C4BPA,C4b-binding protein alpha chain,C4BPA
+C4BPB,C4b-binding protein beta chain,C4BPB
+CO5,Complement C5,C5
+CO6,Complement component C6,C6
+CO7,Complement component C7,C7
+CO8A,Complement component C8 alpha chain,C8A
+CO8B,Complement component C8 beta chain,C8B
+CO8G,Complement component C8 gamma chain,C8G
+CO9,Complement component C9,C9
+CAH1,Carbonic anhydrase 1,CA1
+CAH2,Carbonic anhydrase 2,CA2
+CALM1_&_CALM2_&_CALM3,"Calmodulin 1, 2 & 3",CALM1 & CALM2 & CALM3
+CALL3,Calmodulin-like protein 3,CALML3
+CALL5,Calmodulin-like protein 5,CALML5
+CALR,Calreticulin,CALR
+CAMP,Cathelicidin antimicrobial peptide,CAMP
+CAP1,Adenylyl cyclase-associated protein 1,CAP1
+CARD9,Caspase recruitment domain-containing protein 9,CARD9
+C8AP2,CASP8-associated protein 2,CASP8AP2
+CATA,Catalase,CAT
+CAVN2,Caveolae-associated protein 2,CAVIN2
+CC150,Coiled-coil domain-containing protein 150,CCDC150
+CD14,Monocyte differentiation antigen CD14,CD14
+C163A,Scavenger receptor cysteine-rich type 1 protein M130,CD163
+CD36,Platelet glycoprotein 4,CD36
+CD44,CD44 antigen,CD44
+CD59,CD59 glycoprotein,CD59
+CD5L,CD5 antigen-like,CD5L
+CDC42,Cell division control protein 42 homolog,CDC42
+CADH1,Cadherin-1,CDH1
+CAD13,Cadherin-13,CDH13
+CADH5,Cadherin-5,CDH5
+CDKL3,Cyclin-dependent kinase-like 3,CDKL3
+CELR2,Cadherin EGF LAG seven-pass G-type receptor 2,CELSR2
+CETP,Cholesteryl ester transfer protein,CETP
+CFAB,Complement factor B,CFB
+CFAD,Complement factor D,CFD
+CFAH,Complement factor H,CFH
+FHR1,Complement factor H-related protein 1,CFHR1
+FHR2,Complement factor H-related protein 2,CFHR2
+FHR3,Complement factor H-related protein 3,CFHR3
+FHR4,Complement factor H-related protein 4,CFHR4
+FHR5,Complement factor H-related protein 5,CFHR5
+CFAI,Complement factor I,CFI
+COF1,Cofilin-1,CFL1
+PROP,Properdin,CFP
+NCHL1,Neural cell adhesion molecule L1-like protein,CHL1
+KCRS_&_KCRU_||_CSK21-CSK23,"Mitochondrial creatine kinase S-type & U-type || Casein kinase II subunit alpha 1, 2 & 3",CKMT2 & CKMT1A || CSNK2A1-CSNK2A3
+TETN,Tetranectin,CLEC3B
+CLUS,Clusterin,CLU
+CNDP1,Beta-Ala-His dipeptidase,CNDP1
+COL10,Collectin-10,COLEC10
+COL11,Collectin-11,COLEC11
+COMP,Cartilage oligomeric matrix protein,COMP
+COR1A,Coronin-1A,CORO1A
+CERU,Ceruloplasmin,CP
+CBPB2,Carboxypeptidase B2,CPB2
+CBPN,Carboxypeptidase N catalytic chain,CPN1
+CPN2,Carboxypeptidase N subunit 2,CPN2
+RABP2,Cellular retinoic acid-binding protein 2,CRABP2
+CRIS3,Cysteine-rich secretory protein 3,CRISP3
+CRP,C-reactive protein,CRP
+CRAC1,Cartilage acidic protein 1,CRTAC1
+CSF1R,Macrophage colony-stimulating factor 1 receptor,CSF1R
+CYTC,Cystatin-C,CST3
+CYTB,Cystatin-B,CSTB
+DIAC,Di-N-acetylchitobiase,CTBS
+SRC8,Src substrate cortactin,CTTN
+DAG1,Dystroglycan 1,DAG1
+DOPO,Dopamine beta-hydroxylase,DBH
+DCD,Dermcidin,DCD
+DEF1_&_DEF3,Neutrophil defensin 1 & 3,DEFA1 & DEFA3
+DKC1,H/ACA ribonucleoprotein complex subunit DKC1,DKC1
+DYH3,Dynein axonemal heavy chain 3,DNAH3
+DESP,Desmoplakin,DSP
+ECM1,Extracellular matrix protein 1,ECM1
+ECT2i,"Protein ECT2, isoforms 2 & 4",ECT2
+"EF1A1,_EF1A2_&_EF1A3","Elongation factor 1-alpha 1, 2 & putative 3","EEF1A1, EEF1A2 & EEF1A1P5"
+FBLN3,EGF-containing fibulin-like extracellular matrix protein 1,EFEMP1
+EIF3D,Eukaryotic translation initiation factor 3 subunit D,EIF3D
+IF4A1_&_IF4A2,Eukaryotic initiation factors 4A-I & 4A-II,EIF4A1 & EIF4A2
+EMAL6,Echinoderm microtubule-associated protein-like 6,EML6
+ENOA,Alpha-enolase,ENO1
+ENPP2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,ENPP2
+ERN1,Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1
+FA10,Coagulation factor X,F10
+FA11,Coagulation factor XI,F11
+FA12,Coagulation factor XII,F12
+F13A,Coagulation factor XIII A chain,F13A1
+F13B,Coagulation factor XIII B chain,F13B
+THRB,Prothrombin,F2
+FA5,Coagulation factor V,F5
+FA7,Coagulation factor VII,F7
+FA9,Coagulation factor IX,F9
+FABP5,Fatty acid-binding protein 5,FABP5
+FBLN1,Fibulin-1,FBLN1
+FBLN1i,Isoform C of Fibulin-1,FBLN1
+FBLN5,Fibulin-5,FBLN5
+FCGBP,IgGFc-binding protein,FCGBP
+FCG3A,Low affinity immunoglobulin gamma Fc region receptor III-A,FCGR3A
+FCN2,Ficolin-2,FCN2
+FCN3,Ficolin-3,FCN3
+URP2,Fermitin family homolog 3,FERMT3
+FETUB,Fetuin-B,FETUB
+FIBA,Fibrinogen alpha chain,FGA
+FIBB,Fibrinogen beta chain,FGB
+FIBG,Fibrinogen gamma chain,FGG
+FIBGi,Isoform Gamma-A of Fibrinogen gamma chain,FGG
+FGL1,Fibrinogen-like protein 1,FGL1
+FHAD1,Forkhead-associated domain-containing protein 1,FHAD1
+FILA,Filaggrin,FLG
+FLNA,Filamin-A,FLNA
+FINCi,Isoform 3 of Fibronectin,FN1
+FINCi,Isoform 5 of Fibronectin,FN1
+FINCi,Isoform 8 of Fibronectin,FN1
+FREM3,FRAS1-related extracellular matrix protein 3,FREM3
+GBRG1,Gamma-aminobutyric acid receptor subunit gamma-1,GABRG1
+G3P,Glyceraldehyde-3-phosphate dehydrogenase,GAPDH
+VTDB,Vitamin D-binding protein,GC
+GGH,Gamma-glutamyl hydrolase,GGH
+GP1BA,Platelet glycoprotein Ib alpha chain,GP1BA
+GPIX,Platelet glycoprotein IX,GP9
+PHLD,Phosphatidylinositol-glycan-specific phospholipase D,GPLD1
+GPX3,Glutathione peroxidase 3,GPX3
+GELS,Gelsolin,GSN
+GELSi,Isoform 2 of Gelsolin,GSN
+GSTO1,Glutathione S-transferase omega-1,GSTO1
+GSTP1,Glutathione S-transferase P,GSTP1
+HABP2,Hyaluronan-binding protein 2,HABP2
+HBA,Hemoglobin subunit alpha,HBA1
+HBB,Hemoglobin subunit beta,HBB
+HBD,Hemoglobin subunit delta,HBD
+HBG1,Hemoglobin subunit gamma-1,HBG1
+HGFA,Hepatocyte growth factor activator,HGFAC
+HIF3A,Hypoxia-inducible factor 3-alpha,HIF3A
+H4,Histone H4,HIST1H4A
+HLA1A23_&_HLA1A24,"HLA class I histocompatibility antigen, A alpha chain 23 & 24",HLA-A
+HPT,Haptoglobin,HP
+HPTR,Haptoglobin-related protein,HPR
+HEMO,Hemopexin,HPX
+HRG,Histidine-rich glycoprotein,HRG
+HS90B,Heat shock protein HSP 90-beta,HSP90AB1
+ENPL,Endoplasmin,HSP90B1
+HS71A_&_HS71B,Heat shock 70 kDa proteins 1A & 1B,HSPA1A & HSPA1B
+GRP78,Endoplasmic reticulum chaperone BiP,HSPA5
+HSP76,Heat shock 70 kDa protein 6,HSPA6
+HSP7C,Heat shock cognate 71 kDa protein,HSPA8
+HSPB1,Heat shock protein beta-1,HSPB1
+PGBM,Basement membrane-specific heparan sulfate proteoglycan core protein,HSPG2
+HYI,Putative hydroxypyruvate isomerase,HYI
+ICAM2,Intercellular adhesion molecule 2,ICAM2
+IGA2,Immunoglobulin alpha-2 heavy chain,IGA2
+IGD,Immunoglobulin delta heavy chain,IGD
+IGF1,Insulin-like growth factor I,IGF1
+IGF2,Insulin-like growth factor II,IGF2
+ALS,Insulin-like growth factor-binding protein complex acid labile subunit,IGFALS
+IBP2,Insulin-like growth factor-binding protein 2,IGFBP2
+IBP3,Insulin-like growth factor-binding protein 3,IGFBP3
+IBP4,Insulin-like growth factor-binding protein 4,IGFBP4
+IBP5,Insulin-like growth factor-binding protein 5,IGFBP5
+IBP6,Insulin-like growth factor-binding protein 6,IGFBP6
+IGG1,Immunoglobulin gamma-1 heavy chain,IGG1
+IGHA1,Immunoglobulin heavy constant alpha 1,IGHA1
+IGHA2,Immunoglobulin heavy constant alpha 2,IGHA2
+IGHD,Immunoglobulin heavy constant delta,IGHD
+IGHG2,Immunoglobulin heavy constant gamma 2,IGHG2
+IGHG3,Immunoglobulin heavy constant gamma 3,IGHG3
+IGHG4,Immunoglobulin heavy constant gamma 4,IGHG4
+IGHMi,Isoform 2 of Immunoglobulin heavy constant mu,IGHM
+HV118,Immunoglobulin heavy variable 1-18,IGHV1-18
+HV102,Immunoglobulin heavy variable 1-2,IGHV1-2
+HV124,Immunoglobulin heavy variable 1-24,IGHV1-24
+HV103,Immunoglobulin heavy variable 1-3,IGHV1-3
+HV145,Immunoglobulin heavy variable 1-45,IGHV1-45
+HV146,Immunoglobulin heavy variable 1-46,IGHV1-46
+HV158,Immunoglobulin heavy variable 1-58,IGHV1-58
+HV169,Immunoglobulin heavy variable 1-69,IGHV1-69
+HV692,Immunoglobulin heavy variable 1-69-2,IGHV1-69-2
+HV69D,Immunoglobulin heavy variable 1-69D,IGHV1-69D
+HV108,Immunoglobulin heavy variable 1-8,IGHV1-8
+HV226,Immunoglobulin heavy variable 2-26,IGHV2-26
+HV205,Immunoglobulin heavy variable 2-5,IGHV2-5
+HV70D,Immunoglobulin heavy variable 2-70D,IGHV2-70D
+HV311,Immunoglobulin heavy variable 3-11,IGHV3-11
+HV313,Immunoglobulin heavy variable 3-13,IGHV3-13
+HV315,Immunoglobulin heavy variable 3-15,IGHV3-15
+HV320,Immunoglobulin heavy variable 3-20,IGHV3-20
+HV321,Immunoglobulin heavy variable 3-21,IGHV3-21
+HV323,Immunoglobulin heavy variable 3-23,IGHV3-23
+HV330_&_HV335,Immunoglobulin heavy variables 3-30 & 3-30-5,IGHV3-30 & IGHV3-30-5
+HV333,Immunoglobulin heavy variable 3-33,IGHV3-33
+HV343,Immunoglobulin heavy variable 3-43,IGHV3-43
+HV348,Immunoglobulin heavy variable 3-48,IGHV3-48
+HV349,Immunoglobulin heavy variable 3-49,IGHV3-49
+HV353,Immunoglobulin heavy variable 3-53,IGHV3-53
+HV364,Immunoglobulin heavy variable 3-64,IGHV3-64
+HV64D,Immunoglobulin heavy variable 3-64D,IGHV3-64D
+HV307,Immunoglobulin heavy variable 3-7,IGHV3-7
+HV372,Immunoglobulin heavy variable 3-72,IGHV3-72
+HV373,Immunoglobulin heavy variable 3-73,IGHV3-73
+HV374,Immunoglobulin heavy variable 3-74,IGHV3-74
+HV309,Immunoglobulin heavy variable 3-9,IGHV3-9
+HV428,Immunoglobulin heavy variable 4-28,IGHV4-28
+HV432,Immunoglobulin heavy variable 4-30-2,IGHV4-30-2
+HV434,Immunoglobulin heavy variable 4-34,IGHV4-34
+HVD82,Immunoglobulin heavy variable 4-38-2,IGHV4-38-2
+HV404,Immunoglobulin heavy variable 4-4,IGHV4-4
+HV5X1,Immunoglobulin heavy variable 5-10-1,IGHV5-10-1
+HV551,Immunoglobulin heavy variable 5-51,IGHV5-51
+HV601,Immunoglobulin heavy variable 6-1,IGHV6-1
+HV741,Immunoglobulin heavy variable 7-4-1,IGHV7-4-1
+IGK,Immunoglobulin kappa light chain,IGK
+IGKC,Immunoglobulin kappa constant,IGKC
+KV112_&_KVD12,Immunoglobulin kappa variables 1-12 & 1D-12,IGKV1-12 & IGKV1D-12
+KV113_&_KVD13,Immunoglobulin kappa variables 1-13 & 1D-13,IGKV1-13 & IGKV1D-13
+KV116,Immunoglobulin kappa variable 1-16,IGKV1-16
+KV117,Immunoglobulin kappa variable 1-17,IGKV1-17
+KV127,Immunoglobulin kappa variable 1-27,IGKV1-27
+KV133_&_KVD33,Immunoglobulin kappa variables 1-33 & 1D-33,IGKV1-33 & IGKV1D-33
+KV139_&_KVD39,Immunoglobulin kappa variables 1-39 & 1D-39,IGKV1-39 & IGKV1D-39
+KV105,Immunoglobulin kappa variable 1-5,IGKV1-5
+KV106,Immunoglobulin kappa variable 1-6,IGKV1-6
+KV108,Immunoglobulin kappa variable 1-8,IGKV1-8
+KVD16,Immunoglobulin kappa variable 1D-16,IGKV1D-16
+KVD08,Immunoglobulin kappa variable 1D-8,IGKV1D-8
+KV224,Immunoglobulin kappa variable 2-24,IGKV2-24
+KV228_&_KVD28,Immunoglobulin kappa variables 2-28 & 2D-28,IGKV2-28 & IGKV2D-28
+KV229,Immunoglobulin kappa variable 2-29,IGKV2-29
+KV230,Immunoglobulin kappa variable 2-30,IGKV2-30
+KV240_&_KVD40,Immunoglobulin kappa variables 2-40 & 2D-40,IGKV2-40 & IGKV2D-40
+KVD29,Immunoglobulin kappa variable 2D-29,IGKV2D-29
+KVD30,Immunoglobulin kappa variable 2D-30,IGKV2D-30
+KV311,Immunoglobulin kappa variable 3-11,IGKV3-11
+KV315,Immunoglobulin kappa variable 3-15,IGKV3-15
+KV320,Immunoglobulin kappa variable 3-20,IGKV3-20
+KVD20,Immunoglobulin kappa variable 3D-20,IGKV3D-20
+KVD07,Immunoglobulin kappa variable 3D-7,IGKV3D-7
+KV401,Immunoglobulin kappa variable 4-1,IGKV4-1
+KV621,Immunoglobulin kappa variable 6-21,IGKV6-21
+KVD21,Immunoglobulin kappa variable 6D-21,IGKV6D-21
+IGL1,Immunoglobulin lambda-1 light chain,IGL1
+IGLC3,Immunoglobulin lambda constant 3,IGLC3
+IGLC6,Immunoglobulin lambda constant 6,IGLC6
+IGLC7,Immunoglobulin lambda constant 7,IGLC7
+IGLL1,Immunoglobulin lambda-like polypeptide 1,IGLL1
+LV140,Immunoglobulin lambda variable 1-40,IGLV1-40
+LV144,Immunoglobulin lambda variable 1-44,IGLV1-44
+LV151,Immunoglobulin lambda variable 1-51,IGLV1-51
+LVX54,Immunoglobulin lambda variable 10-54,IGLV10-54
+LV211,Immunoglobulin lambda variable 2-11,IGLV2-11
+LV214,Immunoglobulin lambda variable 2-14,IGLV2-14
+LV218,Immunoglobulin lambda variable 2-18,IGLV2-18
+LV223,Immunoglobulin lambda variable 2-23,IGLV2-23
+LV208,Immunoglobulin lambda variable 2-8,IGLV2-8
+LV301,Immunoglobulin lambda variable 3-1,IGLV3-1
+LV310,Immunoglobulin lambda variable 3-10,IGLV3-10
+LV312,Immunoglobulin lambda variable 3-12,IGLV3-12
+LV316,Immunoglobulin lambda variable 3-16,IGLV3-16
+LV319,Immunoglobulin lambda variable 3-19,IGLV3-19
+LV321,Immunoglobulin lambda variable 3-21,IGLV3-21
+LV325,Immunoglobulin lambda variable 3-25,IGLV3-25
+LV327,Immunoglobulin lambda variable 3-27,IGLV3-27
+LV39,Immunoglobulin lambda variable 3-9,IGLV3-9
+LV403,Immunoglobulin lambda variable 4-3,IGLV4-3
+LV460,Immunoglobulin lambda variable 4-60,IGLV4-60
+LV469,Immunoglobulin lambda variable 4-69,IGLV4-69
+LV537,Immunoglobulin lambda variable 5-37,IGLV5-37
+LV539,Immunoglobulin lambda variable 5-39,IGLV5-39
+LV545,Immunoglobulin lambda variable 5-45,IGLV5-45
+LV657,Immunoglobulin lambda variable 6-57,IGLV6-57
+LV743,Immunoglobulin lambda variable 7-43,IGLV7-43
+LV746,Immunoglobulin lambda variable 7-46,IGLV7-46
+LV861,Immunoglobulin lambda variable 8-61,IGLV8-61
+LV949,Immunoglobulin lambda variable 9-49,IGLV9-49
+IGM,Immunoglobulin mu heavy chain,IGM
+IL1AP,Interleukin-1 receptor accessory protein,IL1RAP
+ILK,Integrin-linked protein kinase,ILK
+INHBC,Inhibin beta C chain,INHBC
+ITA2B,Integrin alpha-IIb,ITGA2B
+ITB3,Integrin beta-3,ITGB3
+ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1,ITIH1
+ITIH2,Inter-alpha-trypsin inhibitor heavy chain H2,ITIH2
+ITIH3,Inter-alpha-trypsin inhibitor heavy chain H3,ITIH3
+ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4,ITIH4
+ITIH4i,Isoform 2 of Inter-alpha-trypsin inhibitor heavy chain H4,ITIH4
+ITPR1,"Inositol 1,4,5-trisphosphate receptor type 1",ITPR1
+IGJ,Immunoglobulin J chain,JCHAIN
+PLAK,Junction plakoglobin,JUP
+KCNU1,Potassium channel subfamily U member 1,KCNU1
+KLKB1,Plasma kallikrein,KLKB1
+KNG1,Kininogen-1,KNG1
+KNG1i,Isoform LMW of Kininogen-1,KNG1
+K2C1,"Keratin, type II cytoskeletal 1",KRT1
+K1C10,"Keratin, type I cytoskeletal 10",KRT10
+K1C13,"Keratin, type I cytoskeletal 13",KRT13
+K1C14,"Keratin, type I cytoskeletal 14",KRT14
+K1C15,"Keratin, type I cytoskeletal 15",KRT15
+K1C16,"Keratin, type I cytoskeletal 16",KRT16
+K1C17,"Keratin, type I cytoskeletal 17",KRT17
+K22E,"Keratin, type II cytoskeletal 2 epidermal",KRT2
+K1H1,"Keratin, type I cuticular Ha1",KRT31
+K2C4,"Keratin, type II cytoskeletal 4",KRT4
+K2C5,"Keratin, type II cytoskeletal 5",KRT5
+K2C6B,"Keratin, type II cytoskeletal 6B",KRT6B
+"KRT81,_KRT83,_KRT85_&_KRT86","Type II cuticular Keratins Hb1, Hb3, Hb5 & Hb6","KRT81, KRT83, KRT85 & KRT86"
+K1C9,"Keratin, type I cytoskeletal 9",KRT9
+KTDAP,Keratinocyte differentiation-associated protein,KRTDAP
+LAMP1,Lysosome-associated membrane glycoprotein 1,LAMP1
+LAMP2,Lysosome-associated membrane glycoprotein 2,LAMP2
+LBP,Lipopolysaccharide-binding protein,LBP
+LCAT,Phosphatidylcholine-sterol acyltransferase,LCAT
+LCN1_&_LC1L1,Lipocalin 1 & putative 1-1,LCN1 & LCN1P1
+PLSL,Plastin-2,LCP1
+LDHA,L-lactate dehydrogenase A chain,LDHA
+LDHB,L-lactate dehydrogenase B chain,LDHB
+LG3BP,Galectin-3-binding protein,LGALS3BP
+LEG7,Galectin-7,LGALS7
+LIRA3,Leukocyte immunoglobulin-like receptor subfamily A member 3,LILRA3
+LIMS1,LIM and senescent cell antigen-like-containing domain protein 1,LIMS1
+APOA,Apolipoprotein(a),LPA
+A2GL,Leucine-rich alpha-2-glycoprotein,LRG1
+LRRT2,Leucine-rich repeat transmembrane neuronal protein 2,LRRTM2
+TRFL,Lactotransferrin,LTF
+LUM,Lumican,LUM
+LYVE1,Lymphatic vessel endothelial hyaluronic acid receptor 1,LYVE1
+LYSC,Lysozyme C,LYZ
+MA1A1,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA",MAN1A1
+MA2A1,Alpha-mannosidase 2,MAN2A1
+MASP1,Mannan-binding lectin serine protease 1,MASP1
+MASP1i,Isoform 2 of Mannan-binding lectin serine protease 1,MASP1
+MASP2,Mannan-binding lectin serine protease 2,MASP2
+MATK,Megakaryocyte-associated tyrosine-protein kinase,MATK
+MBL2,Mannose-binding protein C,MBL2
+MUC18,Cell surface glycoprotein MUC18,MCAM
+MENT,Protein MENT,MENT
+MGP,Matrix Gla protein,MGP
+TGO1,Transport and Golgi organization protein 1 homolog,MIA3
+MINY3,Ubiquitin carboxyl-terminal hydrolase MINDY-3,MINDY3
+MINP1,Multiple inositol polyphosphate phosphatase 1,MINPP1
+MMP28,Matrix metalloproteinase-28,MMP28
+MMRN2,Multimerin-2,MMRN2
+MOES,Moesin,MSN
+HGFL,Hepatocyte growth factor-like protein,MST1
+MYH9,Myosin-9,MYH9
+MYL6,Myosin light polypeptide 6,MYL6
+NDST1,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1,NDST1
+NRP1,Neuropilin-1,NRP1
+NT5D4,5-nucleotidase domain-containing protein 4,NT5DC4
+OAF,Out at first protein homolog,OAF
+OBSCN,Obscurin,OBSCN
+NOE1,Noelin,OLFM1
+OMD,Osteomodulin,OMD
+OPTN,Optineurin,OPTN
+A1AG1,Alpha-1-acid glycoprotein 1,ORM1
+A1AG2,Alpha-1-acid glycoprotein 2,ORM2
+PDIA1,Protein disulfide-isomerase,P4HB
+PARK7,Parkinson disease protein 7,PARK7
+PARVB,Beta-parvin,PARVB
+PCOC1,Procollagen C-endopeptidase enhancer 1,PCOLCE
+PCSK9,Proprotein convertase subtilisin/kexin type 9,PCSK9
+PCYOX,Prenylcysteine oxidase 1,PCYOX1
+PDIA3,Protein disulfide-isomerase A3,PDIA3
+PDLI1,PDZ and LIM domain protein 1,PDLIM1
+PEPD,Xaa-Pro dipeptidase,PEPD
+PLF4,Platelet factor 4,PF4
+PF4V,Platelet factor 4 variant,PF4V1
+PROF1,Profilin-1,PFN1
+PGK1,Phosphoglycerate kinase 1,PGK1
+PGRP2,N-acetylmuramoyl-L-alanine amidase,PGLYRP2
+PHF7,PHD finger protein 7,PHF7
+PI16,Peptidase inhibitor 16,PI16
+PIGR,Polymeric immunoglobulin receptor,PIGR
+KPYM,Pyruvate kinase PKM,PKM
+PAFA,Platelet-activating factor acetylhydrolase,PLA2G7
+PLEK,Pleckstrin,PLEK
+PLMN,Plasminogen,PLG
+PLSI,Plastin-1,PLS1
+PLTP,Phospholipid transfer protein,PLTP
+PXDC2,Plexin domain-containing protein 2,PLXDC2
+PLPL8,Calcium-independent phospholipase A2-gamma,PNPLA8
+DPOLQ,DNA polymerase theta,POLQ
+PON1,Serum paraoxonase/arylesterase 1,PON1
+PON2,Serum paraoxonase/arylesterase 2,PON2
+PON3,Serum paraoxonase/lactonase 3,PON3
+CXCL7,Platelet basic protein,PPBP
+PPIA,Peptidyl-prolyl cis-trans isomerase A,PPIA
+PPIB,Peptidyl-prolyl cis-trans isomerase B,PPIB
+PPR36,Protein phosphatase 1 regulatory subunit 36,PPP1R36
+PRAP1,Proline-rich acidic protein 1,PRAP1
+PRDX1,Peroxiredoxin-1,PRDX1
+PRDX2,Peroxiredoxin-2,PRDX2
+PRDX6,Peroxiredoxin-6,PRDX6
+PRG2,Bone marrow proteoglycan,PRG2
+PRG4i,Isoform C of Proteoglycan 4,PRG4
+PROC,Vitamin K-dependent protein C,PROC
+EPCR,Endothelial protein C receptor,PROCR
+PROS,Vitamin K-dependent protein S,PROS1
+PROZ,Vitamin K-dependent protein Z,PROZ
+PRP4B,Serine/threonine-protein kinase PRP4 homolog,PRPF4B
+TRY1,Serine protease 1,PRSS1
+TRY3,Trypsin-3,PRSS3
+PTGDS,Prostaglandin-H2 D-isomerase,PTGDS
+PZP,Pregnancy zone protein,PZP
+QSOX1,Sulfhydryl oxidase 1,QSOX1
+RAP1B,Ras-related protein Rap-1b,RAP1B
+RARR2,Retinoic acid receptor responder protein 2,RARRES2
+RBAK,RB-associated KRAB zinc finger protein,RBAK
+RBM25,RNA-binding protein 25,RBM25
+RET4,Retinol-binding protein 4,RBP4
+RFX7,DNA-binding protein RFX7,RFX7
+RLF,Zinc finger protein Rlf,RLF
+RNAS1,Ribonuclease pancreatic,RNASE1
+RNAS4,Ribonuclease 4,RNASE4
+RINI,Ribonuclease inhibitor,RNH1
+ROBO4,Roundabout homolog 4,ROBO4
+RL15,60S ribosomal protein L15,RPL15
+RL27,60S ribosomal protein L27,RPL27
+RS14,40S ribosomal protein S14,RPS14
+RSU1,Ras suppressor protein 1,RSU1
+S10AB,Protein S100-A11,S100A11
+S10AC,Protein S100-A12,S100A12
+S10A4,Protein S100-A4,S100A4
+S10A7,Protein S100-A7,S100A7
+S1A7A,Protein S100-A7A,S100A7A
+S10A8,Protein S100-A8,S100A8
+S10A9,Protein S100-A9,S100A9
+SAA1,Serum amyloid A-1 protein,SAA1
+SAA2,Serum amyloid A-2 protein,SAA2
+SAA4,Serum amyloid A-4 protein,SAA4
+SBSN,Suprabasin,SBSN
+NLTP,Sterol carrier protein 2,SCP2
+SE1L3,Protein sel-1 homolog 3,SEL1L3
+SBP1,Methanethiol oxidase,SELENBP1
+SEPP1,Selenoprotein P,SELENOP
+LYAM1,L-selectin,SELL
+A1AT,Alpha-1-antitrypsin,SERPINA1
+ZPI,Protein Z-dependent protease inhibitor,SERPINA10
+AACT,Alpha-1-antichymotrypsin,SERPINA3
+KAIN,Kallistatin,SERPINA4
+IPSP,Plasma serine protease inhibitor,SERPINA5
+CBG,Corticosteroid-binding globulin,SERPINA6
+THBG,Thyroxine-binding globulin,SERPINA7
+SPB3,Serpin B3,SERPINB3
+SPB5,Serpin B5,SERPINB5
+ANT3,Antithrombin-III,SERPINC1
+HEP2,Heparin cofactor 2,SERPIND1
+PEDF,Pigment epithelium-derived factor,SERPINF1
+A2AP,Alpha-2-antiplasmin,SERPINF2
+IC1,Plasma protease C1 inhibitor,SERPING1
+1433S,14-3-3 protein sigma,SFN
+SH3L3,SH3 domain-binding glutamic acid-rich-like protein 3,SH3BGRL3
+SHBG,Sex hormone-binding globulin,SHBG
+B3AT,Band 3 anion transport protein,SLC4A1
+SYUA,Alpha-synuclein,SNCA
+SODE,Extracellular superoxide dismutase [Cu-Zn],SOD3
+SPRC,SPARC,SPARC
+SPRL1,SPARC-like protein 1,SPARCL1
+SPP24,Secreted phosphoprotein 24,SPP2
+F10A1_||_ST134,Hsc70-interacting protein || putative protein FAM10A4,ST13 || ST13P4
+STOM,Stomatin,STOM
+TAGL2,Transgelin-2,TAGLN2
+T2R39,Taste receptor type 2 member 39,TAS2R39
+TRFE,Serotransferrin,TF
+TFR1,Transferrin receptor protein 1,TFRC
+BGH3,Transforming growth factor-beta-induced protein ig-h3,TGFBI
+TGM3L,Protein-glutamine gamma-glutamyltransferase 6,TGM6
+TSP1,Thrombospondin-1,THBS1
+TLN1,Talin-1,TLN1
+TMPS6,Transmembrane protease serine 6,TMPRSS6
+TYB4,Thymosin beta-4,TMSB4X
+TENX,Tenascin-X,TNXB
+TPIS,Triosephosphate isomerase,TPI1
+TPM3i,"Tropomyosin alpha-3 chain, isoforms 2, 3, 4, 5 & 6",TPM3
+TPM4,Tropomyosin alpha-4 chain,TPM4
+TITIN,Titin,TTN
+TTHY,Transthyretin,TTR
+TBA1B,Tubulin alpha-1B chain,TUBA1B
+TBA4A,Tubulin alpha-4A chain,TUBA4A
+TBB5,Tubulin beta chain,TUBB
+TBB1,Tubulin beta-1 chain,TUBB1
+TBB4A,Tubulin beta-4A chain,TUBB4A
+UBB_&_UBC_||_RS27A_||_RL40,Polyubiquitin B & C || Ubiquitin-40S ribosomal protein S27a || Ubiquitin-60S ribosomal protein L40,UBB & UBC || RPS27A || UBA52
+UBE2O,(E3-independent) E2 ubiquitin-conjugating enzyme,UBE2O
+CGT,2-hydroxyacylsphingosine 1-beta-galactosyltransferase,UGT8
+UTS2,Urotensin-2,UTS2
+VASN,Vasorin,VASN
+VCAM1,Vascular cell adhesion protein 1,VCAM1
+VINC,Vinculin,VCL
+VNN1,Pantetheinase,VNN1
+VTI1B,Vesicle transport through interaction with t-SNAREs homolog 1B,VTI1B
+VTNC,Vitronectin,VTN
+VWF,von Willebrand factor,VWF
+WDR1,WD repeat-containing protein 1,WDR1
+SYF1,Pre-mRNA-splicing factor SYF1,XAB2
+1433Z,14-3-3 protein zeta/delta,YWHAZ
+ZG16B,Zymogen granule protein 16 homolog B,ZG16B
+ZGRF1,Protein ZGRF1,ZGRF1
+ZYX,Zyxin,ZYX
